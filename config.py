@@ -28,3 +28,6 @@ MAIL_PASSWORD	= None
 
 # administrator list
 ADMINS = ['tribbettz.dev@gmail.com']
+
+# pagination settings
+POSTS_PER_PAGE = 3
